@@ -1,5 +1,7 @@
 # Prediksi Potensi Hujan: Gradient Descent vs Steepest Descent
 
+**Azhar Maulana** — 24/533487/PA/22582
+
 Implementasi dua metode optimasi berbasis gradien untuk melatih model regresi linear dalam memprediksi potensi hujan berdasarkan data suhu udara, kecepatan angin, dan kelembapan relatif.
 
 ## Dataset
